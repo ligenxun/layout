@@ -10,8 +10,6 @@ layout for android
 
 简单实现功能
 
-a simple program for implementation idea
-
 目前只能支持在应用mylayout时添加两个命名为layout1和layout2的child，如果要用要在mylayout里面修改layout1和layout2来实现其他功能。
 
 
